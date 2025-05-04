@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Thecoder098
-- 👀 I’m interested in ...making a web
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...gitub
-- 📫 How to reach me ...Python
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...My favirate sport is Cricket
+- 👀 I’m interested in ... Algebra
+- 🌱 I’m currently learning ... Cricket
+- 💞️ I’m looking to collaborate on ... IDK
+- 📫 How to reach me ... google chat
+- 😄 Pronouns: ...⁉️
+- ⚡ Fun fact: ...I like to play football but watch cricket
 
 <!---
 Thecoder098/Thecoder098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
